@@ -1,0 +1,56 @@
+nav{
+    display: flex;
+    padding-left: 60px;
+    justify-content: space-between;
+    background-color: rgb(39, 42, 46);
+    border-bottom: solid #ff571d;
+}
+span{
+    color: orangered;
+}
+ul{
+    display: flex;
+}
+li{
+    display: flex;
+    padding: 16px;
+}
+.boat{
+    text-align: center;
+    background-image: url('file:///C:/Users/USER/Pictures/pexels-lisa-fotios-4787588.jpg');
+
+}
+.submit{
+    text-align: right;
+    background: #ff571d;
+    border: #ff571d solid;
+    }
+.laptop{
+    text-align: right;
+    
+}  
+.finger{
+    background:  rgb(39, 42, 46);
+    color: azure;
+    padding-top: 5px;
+	padding-bottom: 4.4px;
+	padding-left: 4px;
+	padding-right: 4px;
+    margin: auto;
+}  
+footer{
+    text-align: center;
+    background: #ff571d;
+    padding: 10px;
+}
+.sub_unit{
+     display: flex;
+     justify-content: space-around;
+     margin: 25px;
+}
+.school{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
